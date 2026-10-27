@@ -46,8 +46,3 @@ Tarefa Adicionada!
 - `Scanner` com `nextInt()` e `nextLine()`
 - Laço `do/while` e `switch`
 - Validação de índice
-
-## Possíveis melhorias
-
-- Marcar tarefas como concluídas (com um `enum Status`)
-- Salvar e carregar as tarefas de um arquivo
